@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.loader--hidden {
+    opacity: 0;
+    visibility: hidden;
+}
